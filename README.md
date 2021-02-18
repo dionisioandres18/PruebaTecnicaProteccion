@@ -6,4 +6,5 @@ sin márgenes. El resultado debe contemplar las siguientes restricciones:
 2. Se debe aprovechar el máximo de la hoja A4
 3. Ninguna imagen debe ser agrandada en el proceso, solo encogida cuando corresponda
 4. La orientación de la página se debe definir a partir de la orientación de la imagen (Horizontal/Vertical)
+EXTRA: El codigo genera un docuemnto pdf tamaño A4 con la imagen cargada.
 
